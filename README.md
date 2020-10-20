@@ -1,6 +1,4 @@
 # Olá, mundo
- Este é meu primeiro repositorio versionado
+ Repositorio versionado.
 
- Aula do Guanabara.
- 
- Adicionado mais uma linha!
+ Criação de pastas e arquivos pelo GitHub Desktop e Visual Studio Code!
